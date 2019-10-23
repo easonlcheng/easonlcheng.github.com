@@ -1,4 +1,4 @@
-# Lixin Cheng (程立新)
+## Lixin Cheng (程立新)
 Email: easonlcheng@gmail.com
 Department of critical care medicine, Shenzhen People's Hospital.
 
@@ -58,5 +58,5 @@ Xue Gong, Ruihong Wu, Hongwei Wang, Xinwu Guo, Dong Wang, Yunyan Gu, Yuannv Zhan
 Xue Gong, Ruihong Wu, Yuannv Zhang, Wenyuan Zhao, Lixin Cheng, Yunyan Gu, Lin Zhang, Jing Wang, Jing Zhu, and Zheng Guo. Extracting consistent knowledge from highly inconsistent cancer gene data sources. BMC Bioinformatics, 2010. (IF=3.03)
 
 ### Conference:
-1)	Lixin Cheng, Pengfei Liu, and Kwong-Sak Leung. SMILE: a novel procedure for subcellular module identification with localization expansion. ACM-BCB’17, August 20-23, 2017, Boston, MA, USA.
+Lixin Cheng, Pengfei Liu, and Kwong-Sak Leung. SMILE: a novel procedure for subcellular module identification with localization expansion. ACM-BCB’17, August 20-23, 2017, Boston, MA, USA.
 
