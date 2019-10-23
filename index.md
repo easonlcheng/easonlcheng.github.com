@@ -3,9 +3,9 @@ Department of critical care medicine, Shenzhen People's Hospital.
 
 Email: easonlcheng@gmail.com
 
-'RA recruitment:' I am looking for research assistents to work together computational biology and bioinformatics. Please email me if interested.
+`RA recruitment:` I am looking for research assistents to work together computational biology and bioinformatics. Please email me if interested.
 
-## POSITION:
+## Position:
 Mar 2019 – present, PI, Department of Critical Care Medicine, Shenzhen People’s Hospital.
 May 2018 – Feb 2019, Postdoctoral Fellow, School of Life Sciences, The Chinese University of Hong Kong.
 May 2012 – Dec 2013, Research Assistant, School of Public Health, Hong Kong University.
@@ -16,26 +16,26 @@ Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Scien
 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
-## Publications:
-Jun Wang, Xiuqing Zhang, Lixin Cheng*, Yonglun Luo*. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. RNA Biology, 2019. (IF=5.5)
+## Publications: (# corresponding author)
+Jun Wang, Xiuqing Zhang, Lixin Cheng#, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. RNA Biology, 2019. (IF=5.5)
 
-Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, Lixin Cheng*, Yonglun Luo*. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. Journal of Molecular Cell Biology, 2019. (IF=4.7, in revision)
+Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, Lixin Cheng#, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. Journal of Molecular Cell Biology, 2019. (IF=4.7, in revision)
 
-Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, Lixin Cheng, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang*. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. Plant Cell, 2019. (IF=8.2)
+Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, Lixin Cheng, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. Plant Cell, 2019. (IF=8.2)
 
-Lixin Cheng*, Pengfei Liu, Dong Wang, and Kwong-Sak Leung*. Exploiting locational and topological overlap model to identify modules in human protein interaction network. BMC Bioinformatics, 2019. (IF=2.2)
+Lixin Cheng, Pengfei Liu, Dong Wang, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. BMC Bioinformatics, 2019. (IF=2.2)
 
-Lixin Cheng*, Kwong-Sak Leung*. Identification and characterization of moonlighting long non-coding RNAs based on RNA and protein interactome. Bioinformatics, 2018. (IF=7.3)
+Lixin Cheng#, Kwong-Sak Leung#. Identification and characterization of moonlighting long non-coding RNAs based on RNA and protein interactome. Bioinformatics, 2018. (IF=7.3)
 
-Lixin Cheng*, Kwong-Sak Leung*. Quantification of non-coding RNA target localization diversity and its application in cancers. Journal of Molecular Cell Biology, 2017. (IF=6.0)
+Lixin Cheng#, Kwong-Sak Leung#. Quantification of non-coding RNA target localization diversity and its application in cancers. Journal of Molecular Cell Biology, 2017. (IF=6.0)
 
-Lixin Cheng, Pengfei Liu, and Kwong-Sak Leung*. SMILE: a novel procedure for subcellular module identification with localization expansion. IET System Biology, 2017 (Also in ACM-BCB 2017).
+Lixin Cheng, Pengfei Liu, and Kwong-Sak Leung#. SMILE: a novel procedure for subcellular module identification with localization expansion. IET System Biology, 2017 (Also in ACM-BCB 2017).
 
-Lixin Cheng, Kaili Fan, Yan Huang, Dong Wang*, and Kwong-Sak Leung*. Full characterization of localization diversity in human protein interactome. Journal of Proteome Research, 2017. (IF=4.3)
+Lixin Cheng, Kaili Fan, Yan Huang, Dong Wang#, and Kwong-Sak Leung#. Full characterization of localization diversity in human protein interactome. Journal of Proteome Research, 2017. (IF=4.3)
 
-Lixin Cheng, Xuan Wang, Pak-Kan Wong, Kwan-Yeung Lee, Le Li, Bin Xu, Dong Wang*, and Kwong-Sak Leung*.   ICN: A normalization method for gene expression data considering the over-expression of informative genes. Molecular BioSystems, 2016. (IF=2.8)
+Lixin Cheng, Xuan Wang, Pak-Kan Wong, Kwan-Yeung Lee, Le Li, Bin Xu, Dong Wang#, and Kwong-Sak Leung#.   ICN: A normalization method for gene expression data considering the over-expression of informative genes. Molecular BioSystems, 2016. (IF=2.8)
 
-Lixin Cheng, Leung-Yau Lo, Nelson Tang, Dong Wang*, and Kwong-Sak Leung*.   CrossNorm: a novel normalization strategy for microarray data in cancers. Scientific Reports, 2016. (IF=5.6)
+Lixin Cheng, Leung-Yau Lo, Nelson Tang, Dong Wang#, and Kwong-Sak Leung#.   CrossNorm: a novel normalization strategy for microarray data in cancers. Scientific Reports, 2016. (IF=5.6)
 
 J PlaniLam, TC Chow, YH Fan, B Garcia-Bloj, L Cheng, E Ingley, W Hancock, S Fanayan, DY Jin, YQ Song. High expression of PTPN21 in B-cell non-Hodgkin’s gastric lymphoma, a positive mediator of STAT5 activity. Blood Cancer Journal, 2015. (IF=4.4)
 
