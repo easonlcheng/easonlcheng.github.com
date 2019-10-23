@@ -1,6 +1,6 @@
 ## Lixin Cheng (程立新)
-Email: easonlcheng@gmail.com
 Department of critical care medicine, Shenzhen People's Hospital.
+Email: easonlcheng@gmail.com
 
 ### RA recruitment: 
 I am looking for research assistents to work together computational biology and bioinformatics. Please email me if interested.
