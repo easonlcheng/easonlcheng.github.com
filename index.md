@@ -1,15 +1,22 @@
-## Lixin Cheng (程立新)
+# Lixin Cheng (程立新)
 Email: easonlcheng@gmail.com
 Department of critical care medicine, Shenzhen People's Hospital.
 
-RA recruitment: I am looking for research assistents to work together computational biology and bioinformatics. Please email me if interested.
+### RA recruitment: 
+I am looking for research assistents to work together computational biology and bioinformatics. Please email me if interested.
 
-### Education
+## POSITION:
+Mar 2019 – present, PI, Department of Critical Care Medicine, Shenzhen People’s Hospital.
+May 2018 – Feb 2019, Postdoctoral Fellow, School of Life Sciences, The Chinese University of Hong Kong.
+May 2012 – Dec 2013, Research Assistant, School of Public Health, Hong Kong University.
+Aug 2011 – Apr 2012, Research Assistant, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University. 
+
+## Education:
 Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
-### Publications
+## Publications:
 Jun Wang, Xiuqing Zhang, Lixin Cheng*, Yonglun Luo*. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. RNA Biology, 2019. (IF=5.5)
 
 Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, Lixin Cheng*, Yonglun Luo*. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. Journal of Molecular Cell Biology, 2019. (IF=4.7, in revision)
@@ -53,4 +60,3 @@ Xue Gong, Ruihong Wu, Yuannv Zhang, Wenyuan Zhao, Lixin Cheng, Yunyan Gu, Lin Zh
 ### Conference:
 1)	Lixin Cheng, Pengfei Liu, and Kwong-Sak Leung. SMILE: a novel procedure for subcellular module identification with localization expansion. ACM-BCB’17, August 20-23, 2017, Boston, MA, USA.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
