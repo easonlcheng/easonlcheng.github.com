@@ -16,7 +16,7 @@ Email: easonlcheng@gmail.com
 * 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
 * 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
-## Selected ublications:
+## Selected Publications:
 (# corresponding author; IF, Impact Factor)
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. **RNA Biology, 2019. (IF=5.5)**
 
