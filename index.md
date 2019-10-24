@@ -5,6 +5,13 @@ Email: easonlcheng@gmail.com
 
 `RA recruitment:` I am looking for research assistants to work together computational biology and bioinformatics. Please email me if interested.
 
+## RESEARCH INTERESTS:
+* Identifying coding & non-coding disease biomarkers and signatures for complicated diseases.
+* Moonlighting RNAs and proteins.
+* Understanding how gene networks are structured in diseases by combining computational algorithms and biological context.
+* Quantifying and characterizing gene products in different genetic backgrounds and physiological conditions through subcellular localization, interaction diversity, and expression dynamics in cells.
+* Microbiota and metagenome.
+
 ## Position:
 * Mar 2019 – present, PI, Department of Critical Care Medicine, Shenzhen People’s Hospital.
 * May 2018 – Feb 2019, Postdoctoral Fellow, School of Life Sciences, The Chinese University of Hong Kong.
