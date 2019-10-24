@@ -5,23 +5,23 @@ Email: easonlcheng@gmail.com
 
 `RA recruitment:` I am looking for research assistants to work together computational biology and bioinformatics. Please email me if interested.
 
-## RESEARCH INTERESTS:
-* Identifying coding & non-coding disease biomarkers and signatures for complicated diseases.
+## Research Interests:
+* Identifying coding & non-coding biomarkers and signatures for complicated diseases.
 * Moonlighting RNAs and proteins.
 * Understanding how gene networks are structured in diseases by combining computational algorithms and biological context.
 * Quantifying and characterizing gene products in different genetic backgrounds and physiological conditions through subcellular localization, interaction diversity, and expression dynamics in cells.
 * Microbiota and metagenome.
+
+## Education:
+* Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
+* 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
+* 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
 ## Position:
 * Mar 2019 – present, PI, Department of Critical Care Medicine, Shenzhen People’s Hospital.
 * May 2018 – Feb 2019, Postdoctoral Fellow, School of Life Sciences, The Chinese University of Hong Kong.
 * May 2012 – Dec 2013, Research Assistant, School of Public Health, Hong Kong University.
 * Aug 2011 – Apr 2012, Research Assistant, Department of Electronic and Information Engineering, The Hong Kong Polytechnic University. 
-
-## Education:
-* Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
-* 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
-* 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
 ## Selected Publications:
 (**#** corresponding author; **IF**, Impact Factor)
