@@ -26,7 +26,7 @@ Email: easonlcheng@gmail.com
 ## Selected Publications:
 (**#** corresponding author; **IF**, Impact Factor)
 
-* Xueyan Liu1, Yong Xu2, Ran Wang3, Sheng Liu1,4, Jun Wang1,4, YongLun Luo4,5, Kwong-Sak Leung3, and **Lixin Cheng1#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
+* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng1#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
 
