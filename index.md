@@ -30,7 +30,7 @@ Email: easonlcheng@gmail.com
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
 
-* Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7, in revision)***
+* Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
 
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
 
