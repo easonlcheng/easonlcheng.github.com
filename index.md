@@ -1,9 +1,7 @@
 ## Lixin Cheng (程立新)
-Email: easonlcheng@gmail.com
-
 Address: Department of critical care medicine, Shenzhen People's Hospital.
 
-I am a Data Scientist with over 10 years of experience in omics and biotech. Interested in all things related to data.
+Email: easonlcheng@gmail.com
 
 `RA recruitment:` I am looking for Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
 
@@ -52,4 +50,7 @@ I am a Data Scientist with over 10 years of experience in omics and biotech. Int
 
 ### Conference:
 * **Lixin Cheng**, Pengfei Liu, and Kwong-Sak Leung. SMILE: a novel procedure for subcellular module identification with localization expansion. ***ACM-BCB’17, August 20-23, 2017, Boston, MA, USA.***
+
+
+
 
