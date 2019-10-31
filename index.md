@@ -30,7 +30,7 @@ Email: easonlcheng@gmail.com
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
 
-* Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, ***Lixin Cheng#***. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
+* Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, **Lixin Cheng#**. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 
 * Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
 
