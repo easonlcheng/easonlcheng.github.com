@@ -3,7 +3,7 @@ Address: Department of critical care medicine, Shenzhen People's Hospital.
 
 Email: easonlcheng@gmail.com
 
-`RA recruitment:` I am looking for Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
+`RA recruitment:` I am looking for Postdoc and Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
 
 ## Research Interests:
 * Identifying coding & non-coding biomarkers and signatures for complicated diseases.
