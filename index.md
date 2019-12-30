@@ -32,6 +32,8 @@ Email: easonlcheng@gmail.com
 
 * **Lixin Cheng**, Pengfei Liu, Dong Wang, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. ***BMC Bioinformatics, 2019. (IF=2.2)***
 
+*	Ran Wang, Shuai Li, **Lixin Cheng**, Man-Hom Wong, Kwong-Sak Leung. Predicting associations among drugs, targets and diseases by tensor decomposition for drug repositioning. ***BMC Bioinformatics. (IF=2.2)***
+
 * **Lixin Cheng#**, Kwong-Sak Leung#. Identification and characterization of moonlighting long non-coding RNAs based on RNA and protein interactome. ***Bioinformatics, 2018. (IF=7.3)***
 
 * **Lixin Cheng#**, Kwong-Sak Leung#. Quantification of non-coding RNA target localization diversity and its application in cancers. ***Journal of Molecular Cell Biology, 2017. (IF=6.0)***
