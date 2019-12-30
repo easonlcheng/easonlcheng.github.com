@@ -30,9 +30,9 @@ Email: easonlcheng@gmail.com
 
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
 
-* **Lixin Cheng**, Pengfei Liu, Dong Wang, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. ***BMC Bioinformatics, 2019. (IF=2.2)***
-
 *	Ran Wang, Shuai Li, **Lixin Cheng**, Man-Hom Wong, Kwong-Sak Leung. Predicting associations among drugs, targets and diseases by tensor decomposition for drug repositioning. ***BMC Bioinformatics. (IF=2.2)***
+
+* **Lixin Cheng**, Pengfei Liu, Dong Wang, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. ***BMC Bioinformatics, 2019. (IF=2.2)***
 
 * **Lixin Cheng#**, Kwong-Sak Leung#. Identification and characterization of moonlighting long non-coding RNAs based on RNA and protein interactome. ***Bioinformatics, 2018. (IF=7.3)***
 
