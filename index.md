@@ -8,11 +8,11 @@ ORCID:  0000-0002-9427-383X
 `RA recruitment:` I am looking for Postdoc and Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
 
 ## Research Interests:
-* Identifying coding & non-coding biomarkers and signatures for complicated diseases.
+* Diagnostic and prognostic biomarker identification.
 * Moonlighting RNAs and proteins.
-* Understanding how gene networks are structured in diseases by combining computational algorithms and biological context.
-* Quantifying and characterizing gene products in different genetic backgrounds and physiological conditions through subcellular localization, interaction diversity, and expression dynamics in cells.
+* Systems biololgy and network analysis.
 * Microbiota and metagenome.
+* Multiomics.
 
 ## Education:
 * Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
@@ -22,6 +22,8 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications:
 (**#** corresponding author; **IF**, Impact Factor)
 
+* **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
+
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
@@ -29,8 +31,6 @@ ORCID:  0000-0002-9427-383X
 * Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, **Lixin Cheng#**. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 
 * Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
-
-* **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
 
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
 
