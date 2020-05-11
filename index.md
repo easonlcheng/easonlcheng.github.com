@@ -8,11 +8,12 @@ ORCID:  0000-0002-9427-383X
 `RA recruitment:` I am looking for Postdoc and Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
 
 ## Research Interests:
-* Diagnostic and prognostic biomarker identification.
-* Moonlighting RNAs and proteins.
-* Systems biololgy and network analysis.
-* Microbiota and metagenome.
-* Multiomics.
+* Diagnostic and prognostic biomarker identification
+* Machine learning algorithms
+* Moonlighting RNAs and proteins
+* Systems biololgy and network analysis
+* Microbiota and metagenome
+* Multiomics
 
 ## Education:
 * Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
