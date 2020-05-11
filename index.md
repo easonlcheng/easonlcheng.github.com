@@ -30,6 +30,8 @@ ORCID:  0000-0002-9427-383X
 
 * Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
 
+* **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
+
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
 
 *	Ran Wang, Shuai Li, **Lixin Cheng**, Man-Hom Wong, Kwong-Sak Leung. Predicting associations among drugs, targets and diseases by tensor decomposition for drug repositioning. ***BMC Bioinformatics, 2019. (IF=2.2)***
