@@ -31,7 +31,7 @@ ORCID:  0000-0002-9427-383X
 
 * **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
 
-* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
+* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
 
@@ -40,8 +40,6 @@ ORCID:  0000-0002-9427-383X
 * Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
 
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
-
-*	Ran Wang, Shuai Li, **Lixin Cheng**, Man-Hom Wong, Kwong-Sak Leung. Predicting associations among drugs, targets and diseases by tensor decomposition for drug repositioning. ***BMC Bioinformatics, 2019. (IF=2.2)***
 
 * **Lixin Cheng**, Pengfei Liu, Dong Wang, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. ***BMC Bioinformatics, 2019. (IF=2.2)***
 
