@@ -23,7 +23,9 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications:
 (**#** corresponding author; **IF**, Impact Factor)
 
-*	Sheng Liu, Wenjing Zhao, Xueyan Liu, **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020 (IF=5.4)***
+*	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye*, and Lixin Cheng*. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (accepted)***
+
+*	Sheng Liu, Wenjing Zhao, Xueyan Liu, **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.4)***
 
 *	Linting Li, Min Liu, Ludan Yue, Rui Wang, Ning Zhang, Yujie Liang, Liang Zhang, **Lixin Cheng#**, Jiang Xia#, Ruibing Wang#. Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteomes. ***Analytical Chemistry, 2020. (IF=6.3)***
 
