@@ -25,23 +25,23 @@ ORCID:  0000-0002-9427-383X
 
 *	Xueyan Liu, Xubin Zheng, Jun Wang, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (accepted)***
 
-*	Sheng Liu, Wenjing Zhao, Xueyan Liu, **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.4)***
+*	Sheng Liu, Wenjing Zhao, Xueyan Liu, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.4)***
 
 *	Linting Li, Min Liu, Ludan Yue, Rui Wang, Ning Zhang, Yujie Liang, Liang Zhang, **Lixin Cheng#**, Jiang Xia#, Ruibing Wang#. Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteomes. ***Analytical Chemistry, 2020. (IF=6.3)***
 
-*	Rennan Ling, Hongtao Jin, Yi Yang, **Lixin Cheng#**. Polypoid endometriosis of the rectum and vagina in an adolescent. ***Journal of Pediatric and Adolescent Gynecology, 2020. (IF=2.3)***
+*	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng#**. Polypoid endometriosis of the rectum and vagina in an adolescent. ***Journal of Pediatric and Adolescent Gynecology, 2020. (IF=2.3)***
 
 * **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
 
 *	Kenneth Cheung, Silvia Fanti, Claudio Mauro, GS Wang, Anitha Nair, HM Fu, Silvia Angeletti, Silvia Spoto, Marta Fogolari, Francesco romano, Dunja Aksentijevic, WW Liu, BY Li, **Lixin Cheng**, LW Yang, Juho Vuononvirta, Thanushiyan Poobalasingam, David Smith, Massimo Ciccozzi, Egle Solito, Federica Marelli-Berg. Preservation of microvascular barrier function requires CD31 receptor-induced metabolic reprogramming. ***Nature Communication, 2020.***
 
-* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
+* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools. ***RNA Biology, 2019. (IF=5.5)***
 
 * Jun Wang, Xi Xiang, Lars Bolund, Xiuqing Zhang, **Lixin Cheng#**, Yonglun Luo#. GNL-Scorer: A generalized model for predicting CRISPR on-target activity by machine learning and featurization. ***Journal of Molecular Cell Biology, 2019. (IF=4.7)***
 
-* Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, **Lixin Cheng#**. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
+* Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, and **Lixin Cheng#**. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 
 * Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. (IF=8.2)***
 
