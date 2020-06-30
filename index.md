@@ -23,7 +23,7 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications:
 (**#** corresponding author; **IF**, Impact Factor)
 
-*	Xueyan Liu, Xubin Zheng, Jun Wang, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (accepted)***
+*	Xueyan Liu, Xubin Zheng, Jun Wang, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (IF=7.9)***
 
 *	Sheng Liu, Wenjing Zhao, Xueyan Liu, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.4)***
 
