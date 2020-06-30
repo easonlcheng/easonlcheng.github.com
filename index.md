@@ -29,6 +29,8 @@ ORCID:  0000-0002-9427-383X
 
 *	Linting Li, Min Liu, Ludan Yue, Rui Wang, Ning Zhang, Yujie Liang, Liang Zhang, **Lixin Cheng#**, Jiang Xia#, Ruibing Wang#. Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteomes. ***Analytical Chemistry, 2020. (IF=6.8)***
 
+*	Miao Liu, Sicong He, **Lixin Cheng**, Jianan Qu, and Jiang Xia#. Phase-Separated Multienzyme Biosynthesis. ***Biomacromolecules, 2020 (IF=6.1) ***
+
 *	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng#**. Polypoid endometriosis of the rectum and vagina in an adolescent. ***Journal of Pediatric and Adolescent Gynecology, 2020. (IF=1.7)***
 
 * **Lixin Cheng**, Chuanchuan Nan, Lin Kang, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#. Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. ***Journal of Translational Medicine, 2020. (IF=4.1)***
