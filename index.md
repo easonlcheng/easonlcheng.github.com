@@ -45,7 +45,7 @@ ORCID:  0000-0002-9427-383X
 
 * Xueyan Liu, Nan Li, Sheng Liu, Jun Wang, Ning Zhang, Xubin Zheng, Kwong-Sak Leung, and **Lixin Cheng#**. Normalization methods for the analysis of unbalanced transcriptome data: a review. ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 
-* Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019. ***
+* Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#. RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis. ***Plant Cell, 2019.***
 
 * **Lixin Cheng**, Pengfei Liu, Dong Wang#, and Kwong-Sak Leung#. Exploiting locational and topological overlap model to identify modules in human protein interaction network. ***BMC Bioinformatics, 2019. (IF=2.2)***
 
