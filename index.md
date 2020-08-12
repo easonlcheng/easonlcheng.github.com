@@ -25,7 +25,7 @@ ORCID:  0000-0002-9427-383X
 
 *	Xueyan Liu, Xubin Zheng, Jun Wang, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (IF=7.9)***
 
-*	Sheng Liu, Wenjing Zhao, Xueyan Liu, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.0)***
+*	Sheng Liu, Wenjing Zhao, Xueyan Liu#, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.0)***
 
 *	Linting Li, Min Liu, Ludan Yue, Rui Wang, Ning Zhang, Yujie Liang, Liang Zhang, **Lixin Cheng#**, Jiang Xia#, Ruibing Wang#. Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteomes. ***Analytical Chemistry, 2020. (IF=6.8)***
 
@@ -37,7 +37,7 @@ ORCID:  0000-0002-9427-383X
 
 *	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng#**. Polypoid endometriosis of the rectum and vagina in an adolescent. ***J Pediatr Adolesc Gynecol. 2020 Jun 13;S1083-3188(20)30243-6.***
 
-*	RunzhuYin, Xueyan Liu, JingfangYu, Yingbin Ji, Jian Liu, **Lixin Cheng#** & Jun Zhou. Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence. ***Sci Rep. 2020 Jul 10;10(1):11472.***
+*	RunzhuYin, Xueyan Liu, JingfangYu, Yingbin Ji, Jian Liu, **Lixin Cheng#**, Jun Zhou#. Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence. ***Sci Rep. 2020 Jul 10;10(1):11472.***
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
