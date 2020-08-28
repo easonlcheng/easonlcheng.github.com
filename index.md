@@ -37,7 +37,7 @@ ORCID:  0000-0002-9427-383X
 
 *	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng#**. Polypoid endometriosis of the rectum and vagina in an adolescent. ***J Pediatr Adolesc Gynecol. 2020 Jun 13;S1083-3188(20)30243-6.***
 
-*	RunzhuYin, Xueyan Liu, JingfangYu, Yingbin Ji, Jian Liu, **Lixin Cheng#**, Jun Zhou#. Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence. ***Sci Rep. 2020 Jul 10;10(1):11472.***
+*	Runzhu Yin, Xueyan Liu, Jingfang Yu, Yingbin Ji, Jian Liu, **Lixin Cheng#**, Jun Zhou#. Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence. ***Sci Rep. 2020 Jul 10;10(1):11472.***
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**. A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis. ***Briefings in Bioinformatics, 2019. (IF=9.1)***
 
