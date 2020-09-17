@@ -25,9 +25,9 @@ ORCID:  0000-0002-9427-383X
 
 *	Xueyan Liu, Xubin Zheng, Jun Wang, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (IF=7.9)***
 
-*	Chuanchuan Nan, Ning Zhang, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu#, Nan Li#, and **Lixin Cheng#**.  Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis. ***Frontiers in Cell and Developmental Biology, 2020. (in press, IF=5.2)***
+*	Chuanchuan Nan, Ning Zhang, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu#, Nan Li#, and **Lixin Cheng#**.  Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis. ***Frontiers in Cell and Developmental Biology, 2020. (IF=5.2)***
 
-*	Sheng Liu, Wenjing Zhao, Xueyan Liu#, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (in press, IF=5.0)***
+*	Sheng Liu, Wenjing Zhao, Xueyan Liu#, and **Lixin Cheng#**. Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target. ***FASEB Journal, 2020. (IF=5.0)***
 
 *	Linting Li, Min Liu, Ludan Yue, Rui Wang, Ning Zhang, Yujie Liang, Liang Zhang, **Lixin Cheng#**, Jiang Xia#, Ruibing Wang#. Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteomes. ***Analytical Chemistry, 2020. (IF=6.8)***
 
