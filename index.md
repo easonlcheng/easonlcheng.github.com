@@ -1,7 +1,7 @@
 ## Lixin Cheng (程立新)
 Address: Shenzhen People's Hospital, Shenzhen, China.
 
-![alt text](https://github.com/easonlcheng/easonlcheng.github.com/blob/[branch]/bighead.jpg?raw=true)
+![alt text](https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead.jpg?raw=true)
 
 Email: easonlcheng@gmail.com
 
