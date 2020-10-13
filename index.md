@@ -1,8 +1,6 @@
 ## Lixin Cheng (程立新)
 
-<p align="right">
-  <img src="https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead1.jpg" />
-</p>
+<img align="right" src="https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead1.jpg">
 
 Address: Shenzhen People's Hospital, Shenzhen, China.
 
