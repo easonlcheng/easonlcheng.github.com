@@ -28,7 +28,7 @@ ORCID:  0000-0002-9427-383X
 
 *	Xueyan Liu\*, Xubin Zheng\*, Jun Wang\*, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye#, and **Lixin Cheng#**. A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission. ***Clinical and Translational Medicine, 2020. (IF=7.9)***
 
-*	**Cheng, Lixin\*#**, Yonglun Zeng\*, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang#. Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data. ***Plant Journal 2020 (IF=6.2, in press)***
+*	**Lixin Cheng\*#**, Yonglun Zeng\*, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang#. Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data. ***Plant Journal 2020 (IF=6.2, in press)***
 
 *	Chuanchuan Nan\*, Ning Zhang\*, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu#, Nan Li#, and **Lixin Cheng#**.  Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis. ***Frontiers in Cell and Developmental Biology, 2020. (IF=5.2)***
 
