@@ -51,7 +51,7 @@ Phase-Separated Multienzyme Biosynthesis.
 ***Biomacromolecules, 2020 (IF=6.1)***
 
 * **Lixin Cheng\***, Chuanchuan Nan\*, Lin Kang\*, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang#, Xueyan Liu#.  
-Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis. 
+Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis.  
 ***Journal of Translational Medicine, 2020. (IF=4.1)***
 
 *	Kenneth Cheung, Silvia Fanti, Claudio Mauro, GS Wang, Anitha Nair, HM Fu, Silvia Angeletti, Silvia Spoto, Marta Fogolari, Francesco romano, Dunja Aksentijevic, WW Liu, BY Li, **Lixin Cheng**, LW Yang, Juho Vuononvirta, Thanushiyan Poobalasingam, David Smith, Massimo Ciccozzi, Egle Solito, Federica Marelli-Berg.  
@@ -59,11 +59,11 @@ Preservation of microvascular barrier function requires CD31 receptor-induced me
 ***Nat Commun. 2020 Jul 17;11(1):3595.***
 
 *	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng#**.  
-Polypoid endometriosis of the rectum and vagina in an adolescent. 
+Polypoid endometriosis of the rectum and vagina in an adolescent.  
 ***J Pediatr Adolesc Gynecol. 2020 Jun 13;S1083-3188(20)30243-6.***
 
 *	Runzhu Yin\*, Xueyan Liu\*, Jingfang Yu, Yingbin Ji, Jian Liu, **Lixin Cheng#**, Jun Zhou#. 
-Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence. 
+Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence.  
 ***Sci Rep. 2020 Jul 10;10(1):11472.***
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng#**.  
