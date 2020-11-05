@@ -32,7 +32,7 @@ A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU adm
 
 *	**Lixin Cheng\*#**, Yonglun Zeng\*, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang#.  
 Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data.  
-***Plant Journal 2020 (IF=6.1, in press)***
+***Plant Journal 2020 (IF=6.1)***
 
 *	Chuanchuan Nan\*, Ning Zhang\*, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu#, Nan Li#, and **Lixin Cheng#**.  
 Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis.  
