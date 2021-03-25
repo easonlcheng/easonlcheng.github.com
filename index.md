@@ -62,7 +62,7 @@ Preservation of microvascular barrier function requires CD31 receptor-induced me
 Polypoid endometriosis of the rectum and vagina in an adolescent.  
 ***J Pediatr Adolesc Gynecol. 2020 Jun 13;S1083-3188(20)30243-6.***
 
-*	Runzhu Yin\*, Xueyan Liu\*, Jingfang Yu, Yingbin Ji, Jian Liu, **Lixin Cheng#**, Jun Zhou#. 
+*	Runzhu Yin#, Xueyan Liu#, Jingfang Yu, Yingbin Ji, Jian Liu, **Lixin Cheng\***, Jun Zhou\*. 
 Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence.  
 ***Sci Rep. 2020 Jul 10;10(1):11472.***
 
@@ -82,7 +82,7 @@ GNL-Scorer: A generalized model for predicting CRISPR on-target activity by mach
 Normalization methods for the analysis of unbalanced transcriptome data: a review.  
 ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 
-* Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang#.  
+* Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang\*.  
 RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis.  
 ***Plant Cell, 2019.***
 
