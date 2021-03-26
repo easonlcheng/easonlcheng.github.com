@@ -26,7 +26,8 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications:
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-*	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***. Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.  
+*	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
+Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.  
 ***BMC Genomics, 2021.***
 
 *	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and **Lixin Cheng\***.  
