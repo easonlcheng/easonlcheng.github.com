@@ -26,7 +26,8 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications:
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-*	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***. Long non-coding RNA Pairs to Assist in Diagnosing Sepsis. ***BMC Genomics 2021.***
+*	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***. Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.  
+***BMC Genomics, 2021.***
 
 *	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and **Lixin Cheng\***.  
 A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission.  
@@ -34,7 +35,7 @@ A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU adm
 
 *	**Lixin Cheng\*#**, Yonglun Zeng#, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang\*.  
 Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data.  
-***Plant Journal 2020 (IF=6.1)***
+***Plant Journal 2020. (IF=6.1)***
 
 *	Chuanchuan Nan#, Ning Zhang#, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu\*, Nan Li\*, and **Lixin Cheng\***.  
 Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis.  
