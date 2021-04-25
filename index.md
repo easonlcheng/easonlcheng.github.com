@@ -38,7 +38,7 @@ HCMB: A stable and efficient algorithm for processing the normalization of highl
 Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data.  
 ***Plant Journal 2021. (IF=6.1)***
 
-Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu*, and **Lixin Cheng\***.  
+*	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu*, and **Lixin Cheng\***.  
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
 ***Front. Cell Dev. Biol., 2021. (IF=5.2)***  
 
