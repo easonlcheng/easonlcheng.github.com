@@ -15,7 +15,6 @@ ORCID:  0000-0002-9427-383X
 * Machine learning algorithms
 * Moonlighting RNAs and proteins
 * Systems biololgy and network analysis
-* Microbiota and metagenome
 * Multiomics
 
 ## Education:
