@@ -45,10 +45,6 @@ Evaluating the consistency of gene methylation in liver cancer using bisulfite s
 A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission.  
 ***Clinical and Translational Medicine, 2020. (IF=7.9)***
 
-*	Chuanchuan Nan#, Ning Zhang#, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu\*, Nan Li\*, and **Lixin Cheng\***.  
-Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis.  
-***Front. Cell Dev. Biol., 2020. (IF=5.2)***
-
 *	Sheng Liu, Wenjing Zhao, Xueyan Liu\*, and **Lixin Cheng\***.  
 Metagenomic analysis of the gut microbiome in atherosclerosis patients identify cross-cohort microbial signatures and potential therapeutic target.  
 ***FASEB Journal, 2020. (IF=5.0)***
@@ -68,6 +64,10 @@ Whole blood transcriptomic investigation identifies long non-coding RNAs as regu
 *	Kenneth Cheung, Silvia Fanti, Claudio Mauro, GS Wang, Anitha Nair, HM Fu, Silvia Angeletti, Silvia Spoto, Marta Fogolari, Francesco romano, Dunja Aksentijevic, WW Liu, BY Li, **Lixin Cheng**, LW Yang, Juho Vuononvirta, Thanushiyan Poobalasingam, David Smith, Massimo Ciccozzi, Egle Solito, Federica Marelli-Berg.  
 Preservation of microvascular barrier function requires CD31 receptor-induced metabolic reprogramming.  
 ***Nat Commun. 2020 Jul 17;11(1):3595.***
+
+*	Chuanchuan Nan#, Ning Zhang#, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu\*, Nan Li\*, and **Lixin Cheng\***.  
+Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis.  
+***Front. Cell Dev. Biol., 2020. (IF=5.2)***
 
 *	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng\***.  
 Polypoid endometriosis of the rectum and vagina in an adolescent.  
