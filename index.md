@@ -22,7 +22,7 @@ ORCID:  0000-0002-9427-383X
 * 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
 * 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
-## Selected Publications:
+## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
 *	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
