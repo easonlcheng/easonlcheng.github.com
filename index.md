@@ -30,7 +30,7 @@ Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.
 ***BMC Genomics, 2021.(IF=3.6)*** 
 [Full Text](https://doi.org/10.1186/s12864-021-07576-4)
 
-*	Honglong Wu#, Xuebin Wang#, Mengtian Chu, Dongfang Li, **Lixin Cheng\***, Ke Zhou*.  
+*	Honglong Wu#, Xuebin Wang#, Mengtian Chu, Dongfang Li, **Lixin Cheng\***, Ke Zhou\*.  
 HCMB: A stable and efficient algorithm for processing the normalization of highly sparse Hi-C contact data.  
 ***Computational and Structural Biotechnology Journal, 2021. (IF=6.0)*** 
 [Full Text](https://doi.org/10.1016/j.csbj.2021.04.064)
@@ -40,7 +40,7 @@ Systematic prediction of autophagy-related proteins using Arabidopsis thaliana i
 ***Plant Journal 2021. (IF=6.1)*** 
 [Full Text](https://doi.org/10.1111/tpj.15065)
 
-*	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu*, and **Lixin Cheng\***.  
+*	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and **Lixin Cheng\***.  
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
 ***Front. Cell Dev. Biol., 2021. (IF=5.2)***
 [Full Text](https://doi.org/10.3389/fcell.2021.671302)
