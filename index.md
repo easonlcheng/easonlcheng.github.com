@@ -8,6 +8,8 @@ Email: easonlcheng@gmail.com
 
 ORCID:  0000-0002-9427-383X 
 
+ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
+
 `RA recruitment:` I am looking for Postdoc and Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
 
 ## Research Interests:
