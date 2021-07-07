@@ -29,22 +29,22 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
 Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.  
-***BMC Genomics, 2021.(IF=3.6)*** 
+***BMC Genomics, 2021.(IF=3.9)*** 
 [Full Text](https://doi.org/10.1186/s12864-021-07576-4)
 
 *	Honglong Wu#, Xuebin Wang#, Mengtian Chu, Dongfang Li, **Lixin Cheng\***, Ke Zhou\*.  
 HCMB: A stable and efficient algorithm for processing the normalization of highly sparse Hi-C contact data.  
-***Computational and Structural Biotechnology Journal, 2021. (IF=6.0)*** 
+***Computational and Structural Biotechnology Journal, 2021. (IF=7.2)*** 
 [Full Text](https://doi.org/10.1016/j.csbj.2021.04.064)
 
 *	**Lixin Cheng\*#**, Yonglun Zeng#, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang\*.  
 Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data.  
-***Plant Journal 2021. (IF=6.1)*** 
+***Plant Journal 2021. (IF=6.4)*** 
 [Full Text](https://doi.org/10.1111/tpj.15065)
 
 *	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and **Lixin Cheng\***.  
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
-***Front. Cell Dev. Biol., 2021. (IF=5.2)***
+***Front. Cell Dev. Biol., 2021. (IF=6.6)***
 [Full Text](https://doi.org/10.3389/fcell.2021.671302)
 
 *	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and **Lixin Cheng\***.  
