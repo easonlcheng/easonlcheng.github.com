@@ -42,6 +42,16 @@ Systematic prediction of autophagy-related proteins using Arabidopsis thaliana i
 ***Plant Journal 2021. (IF=6.4)*** 
 [Full Text](https://doi.org/10.1111/tpj.15065)
 
+* Yang Song, Suzhu Zhu, Ning Zhang, and **Lixin Cheng\***.
+Blood circulating miRNA pairs as a robust signature for early detection of esophageal cancer.
+***Front. Oncol., 2021. (IF=6.2)***
+[Full Text](https://doi.org/10.3389/fonc.2021.723779)
+
+* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
+A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
+***Briefings in Bioinformatics, 2021. (IF=11.6)***
+[Full Text](https://doi.org/10.1093/bib/bbz154)
+
 *	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and **Lixin Cheng\***.  
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
 ***Front. Cell Dev. Biol., 2021. (IF=6.6)***
@@ -89,10 +99,6 @@ Up‑regulation of autophagy by low concentration of salicylic acid delays methy
 ***Sci Rep. 2020 Jul 10;10(1):11472.***
 [Full Text](https://doi.org/10.1038/s41598-020-68484-3)
 
-* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
-A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
-***Briefings in Bioinformatics, 2019. (IF=9.1)***
-[Full Text](https://doi.org/10.1093/bib/bbz154)
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng\***, Yonglun Luo\*.  
 An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools.  
