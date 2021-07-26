@@ -42,8 +42,8 @@ Systematic prediction of autophagy-related proteins using Arabidopsis thaliana i
 ***Plant Journal 2021. (IF=6.4)*** 
 [Full Text](https://doi.org/10.1111/tpj.15065)
 
-* Yang Song, Suzhu Zhu, Ning Zhang, and **Lixin Cheng\***.
-Blood circulating miRNA pairs as a robust signature for early detection of esophageal cancer.
+* Yang Song, Suzhu Zhu, Ning Zhang, and **Lixin Cheng\***.  
+Blood circulating miRNA pairs as a robust signature for early detection of esophageal cancer.  
 ***Front. Oncol., 2021. (IF=6.2)***
 [Full Text](https://doi.org/10.3389/fonc.2021.723779)
 
