@@ -27,6 +27,11 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+*	Yueran Yang#, Yu Zhang#, Shuai Li, Xubin Zheng, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
+A robust and generalizable immune-related signature for sepsis diagnostics.  
+***IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021.*** 
+[Full Text]
+
 *	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
 Long non-coding RNA Pairs to Assist in Diagnosing Sepsis.  
 ***BMC Genomics, 2021.(IF=3.9)*** 
