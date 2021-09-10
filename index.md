@@ -29,7 +29,7 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	Yueran Yang#, Yu Zhang#, Shuai Li, Xubin Zheng, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 A robust and generalizable immune-related signature for sepsis diagnostics.  
-***IEEE/ACM Transactions on Computational Biology and Bioinformatics, 2021.*** 
+***IEEE/ACM Trans Comput Biol Bioinform, 2021.*** 
 [Full Text](https://pubmed.ncbi.nlm.nih.gov/34437068/)
 
 *	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
