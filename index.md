@@ -62,6 +62,11 @@ Evaluating the consistency of gene methylation in liver cancer using bisulfite s
 ***Front. Cell Dev. Biol., 2021. (IF=6.6)***
 [Full Text](https://doi.org/10.3389/fcell.2021.671302)
 
+*	Baiying Li#, Yonglun Zeng#, Wenhan Cao, Wenxin Zhang, **Lixin Cheng**, Haidi Yin, Qian Wu, Xiangfeng Wang, Yan Huang, Wilson Chun Yu Lau, Zhong-Ping Yao, Yusong Guo* & Liwen Jiang*.  
+A distinct giant coat protein complex II vesicle population in Arabidopsis thaliana.  
+***Nature Plants, 2021***
+[Full Text](https://www.nature.com/articles/s41477-021-00997-9)
+
 *	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and **Lixin Cheng\***.  
 A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission.  
 ***Clinical and Translational Medicine, 2020. (IF=7.9)***
