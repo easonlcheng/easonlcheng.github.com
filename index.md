@@ -27,6 +27,15 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+*	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
+Improving bulk RNA-seq classification of acute myeloid leukemia by gene signature transfer from single cells.  
+***Briefings in Bioinformatics, 2021. (Accepted, IF=11.6)***
+
+* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
+A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
+***Briefings in Bioinformatics, 2021. (IF=11.6)***
+[Full Text](https://doi.org/10.1093/bib/bbz154)
+
 *	Yueran Yang#, Yu Zhang#, Shuai Li, Xubin Zheng, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 A robust and generalizable immune-related signature for sepsis diagnostics.  
 ***IEEE/ACM Trans Comput Biol Bioinform, 2021.*** 
@@ -51,11 +60,6 @@ Systematic prediction of autophagy-related proteins using Arabidopsis thaliana i
 Blood circulating miRNA pairs as a robust signature for early detection of esophageal cancer.  
 ***Front. Oncol., 2021. (IF=6.2)***
 [Full Text](https://doi.org/10.3389/fonc.2021.723779)
-
-* Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
-A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
-***Briefings in Bioinformatics, 2021. (IF=11.6)***
-[Full Text](https://doi.org/10.1093/bib/bbz154)
 
 *	Xubin Zheng#, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and **Lixin Cheng\***.  
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
