@@ -29,7 +29,8 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
 Improving bulk RNA-seq classification of acute myeloid leukemia by gene signature transfer from single cells.  
-***Briefings in Bioinformatics, 2021. (in press, IF=11.6)***
+***Briefings in Bioinformatics, 2022. (in press, IF=11.6)***
+[Full Text](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac002/6523149)
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
 A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
@@ -112,7 +113,6 @@ Polypoid endometriosis of the rectum and vagina in an adolescent.
 Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence.  
 ***Sci Rep. 2020 Jul 10;10(1):11472.***
 [Full Text](https://doi.org/10.1038/s41598-020-68484-3)
-
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng\***, Yonglun Luo\*.  
 An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools.  
