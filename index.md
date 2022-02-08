@@ -29,7 +29,7 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
 Improving bulk RNA-seq classification of acute myeloid leukemia by gene signature transfer from single cells.  
-***Briefings in Bioinformatics, 2022. (in press, IF=11.6)***
+***Briefings in Bioinformatics, 2021. (IF=11.6)***
 [Full Text](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac002/6523149)
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
