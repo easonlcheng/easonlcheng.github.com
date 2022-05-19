@@ -33,8 +33,8 @@ meGPS: a multi-omics signature for hepatocellular carcinoma detection integratin
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
-***Briefings in Bioinformatics, 2021. (IF=11.6)***
-[Full Text](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac002/6523149)
+***Briefings in Bioinformatics, 2022. (IF=11.6)***
+[Full Text](https://doi.org/10.1093/bib/bbac002)
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
 A network-based algorithm for the identification of moonlighting non-coding RNAs and its application in sepsis.  
