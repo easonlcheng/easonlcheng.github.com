@@ -27,6 +27,10 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+*	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
+meGPS: a multi-omics signature for hepatocellular carcinoma detection integrating methylome and transcriptome data.  
+***Bioinformatics, 2022 (in press)***
+
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
 ***Briefings in Bioinformatics, 2021. (IF=11.6)***
@@ -99,20 +103,6 @@ Whole blood transcriptomic investigation identifies long non-coding RNAs as regu
 *	Kenneth Cheung, Silvia Fanti, Claudio Mauro, GS Wang, Anitha Nair, HM Fu, Silvia Angeletti, Silvia Spoto, Marta Fogolari, Francesco romano, Dunja Aksentijevic, WW Liu, BY Li, **Lixin Cheng**, LW Yang, Juho Vuononvirta, Thanushiyan Poobalasingam, David Smith, Massimo Ciccozzi, Egle Solito, Federica Marelli-Berg.  
 Preservation of microvascular barrier function requires CD31 receptor-induced metabolic reprogramming.  
 ***Nat Commun. 2020 Jul 17;11(1):3595.***
-
-*	Chuanchuan Nan#, Ning Zhang#, Hua-Dong Zhang, Wei Li, Cheng-Ying Hong, Huai-Sheng Chen, Xue-Yan Liu\*, Nan Li\*, and **Lixin Cheng\***.  
-Knockdown of lncRNA MALAT1 alleviates LPS-induced acute lung injury via inhibiting apoptosis through miR-194-5p/FOXP2 Axis.  
-***Front. Cell Dev. Biol., 2020. (IF=5.2)***
-[Full Text](https://doi.org/10.3389/fcell.2020.586869)
-
-*	Rennan Ling, Hongtao Jin, Yi Yang, and **Lixin Cheng\***.  
-Polypoid endometriosis of the rectum and vagina in an adolescent.  
-***J Pediatr Adolesc Gynecol. 2020 Jun 13;S1083-3188(20)30243-6.***
-
-*	Runzhu Yin#, Xueyan Liu#, Jingfang Yu, Yingbin Ji, Jian Liu, **Lixin Cheng\***, Jun Zhou\*. 
-Up‑regulation of autophagy by low concentration of salicylic acid delays methyl jasmonate‑induced leaf senescence.  
-***Sci Rep. 2020 Jul 10;10(1):11472.***
-[Full Text](https://doi.org/10.1038/s41598-020-68484-3)
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng\***, Yonglun Luo\*.  
 An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools.  
