@@ -29,7 +29,9 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
 meGPS: a multi-omics signature for hepatocellular carcinoma detection integrating methylome and transcriptome data.  
-***Bioinformatics, 2022 (in press)***
+***Bioinformatics, 2022 (IF=6.9)***
+[Full Text](
+https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac379/6604268) 
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
