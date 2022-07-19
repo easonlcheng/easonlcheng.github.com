@@ -33,12 +33,12 @@ meGPS: a multi-omics signature for hepatocellular carcinoma detection integratin
 [Full Text](
 https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac379/6604268) 
 
-*	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, **Lixin Cheng\***.  
+*	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
 ***Briefings in Bioinformatics, 2022. (IF=11.6)***
 [Full Text](https://doi.org/10.1093/bib/bbac002)
 
-* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, **Lixin Cheng\***.  
+* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, and **Lixin Cheng\***.  
 Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer.  
 ***Computers in Biology and Medicine, 2022 (IF=6.9)***
 
