@@ -38,8 +38,8 @@ Improving bulk RNA-seq classification by transferring gene signature from single
 ***Briefings in Bioinformatics, 2022. (IF=11.6)***
 [Full Text](https://doi.org/10.1093/bib/bbac002)
 
-* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, **Lixin Cheng\***. 
-Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer. 
+* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, **Lixin Cheng\***.  
+Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer.  
 ***Computers in Biology and Medicine, 2022 (IF=6.9)***
 
 * Xueyan Liu, Yong Xu, Ran Wang, Sheng Liu, Jun Wang, YongLun Luo, Kwong-Sak Leung, and **Lixin Cheng\***.  
