@@ -15,7 +15,7 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 ## Research Interests:
 * Diagnostic and prognostic biomarker identification
 * Machine learning algorithms
-* Moonlighting RNAs and proteins
+* Data integration and transfer learning
 * Systems biololgy and network analysis
 * Multiomics
 
@@ -35,7 +35,7 @@ https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bio
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
-***Briefings in Bioinformatics, 2022. (IF=11.6)***
+***Briefings in Bioinformatics, 2022. (IF=14)***
 [Full Text](https://doi.org/10.1093/bib/bbac002)
 
 * Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, and **Lixin Cheng\***.  
