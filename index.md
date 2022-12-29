@@ -28,7 +28,7 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
 *	**Lixin Cheng#\***, Haonan Wu#, Xubin Zheng, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng*. 
-GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion. 
+GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion.  
 ***Bioinformatics, 2023 (IF=6.9)***
 
 *	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
@@ -54,7 +54,7 @@ A network-based algorithm for the identification of moonlighting non-coding RNAs
 
 *	Yueran Yang#, Yu Zhang#, Shuai Li, Xubin Zheng, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 A robust and generalizable immune-related signature for sepsis diagnostics.  
-***IEEE/ACM Trans Comput Biol Bioinform, 2021.*** 
+***IEEE/ACM Transactions in Computational Biology and Bioinformatics, 2021.*** 
 [Full Text](https://pubmed.ncbi.nlm.nih.gov/34437068/)
 
 *	Xubin Zheng, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.  
