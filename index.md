@@ -27,6 +27,10 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+*	**Lixin Cheng#\***, Haonan Wu#, Xubin Zheng, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng*. 
+GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion. 
+***Bioinformatics, 2023 (IF=6.9)***
+
 *	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
 meGPS: a multi-omics signature for hepatocellular carcinoma detection integrating methylome and transcriptome data.  
 ***Bioinformatics, 2022 (IF=6.9)***
@@ -39,7 +43,7 @@ Improving bulk RNA-seq classification by transferring gene signature from single
 [Full Text](https://doi.org/10.1093/bib/bbac002)
 
 * Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, and **Lixin Cheng\***.  
-Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer.  
+Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer.   
 ***Computers in Biology and Medicine, 2022 (IF=6.9)***
 [Full Text](https://doi.org/10.1016/j.compbiomed.2022.105881)
 
