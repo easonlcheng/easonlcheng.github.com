@@ -42,7 +42,7 @@ Improving bulk RNA-seq classification by transferring gene signature from single
 ***Briefings in Bioinformatics, 2022. (IF=14)***
 [Full Text](https://doi.org/10.1093/bib/bbac002)
 
-* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye*, and **Lixin Cheng\***.  
+* Haili Li#, Xubin Zheng#, Jing Gao, Kwong-Sak Leung, Man-Hon Wong, Shu Yang, Yakun Liu, Ming Dong, Huimin Bai, Xiufeng Ye\*, and **Lixin Cheng\***.  
 Whole transcriptome analysis reveals non-coding RNA’s competing endogenous gene pairs as novel form of motifs in serous ovarian cancer.   
 ***Computers in Biology and Medicine, 2022 (IF=6.9)***
 [Full Text](https://doi.org/10.1016/j.compbiomed.2022.105881)
@@ -67,7 +67,7 @@ HCMB: A stable and efficient algorithm for processing the normalization of highl
 ***Computational and Structural Biotechnology Journal, 2021. (IF=7.2)*** 
 [Full Text](https://doi.org/10.1016/j.csbj.2021.04.064)
 
-*	**Lixin Cheng\*#**, Yonglun Zeng#, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang\*.  
+*	**Lixin Cheng#\***, Yonglun Zeng#, Shuai Hu, Ning Zhang, Kenneth C.P. Cheung, Baiying Li, Kwong-Sak Leung, Liwen Jiang\*.  
 Systematic prediction of autophagy-related proteins using Arabidopsis thaliana interactome data.  
 ***Plant Journal 2021. (IF=6.4)*** 
 [Full Text](https://doi.org/10.1111/tpj.15065)
