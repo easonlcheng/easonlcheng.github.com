@@ -29,7 +29,7 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 *	**Lixin Cheng#\***, Haonan Wu#, Xubin Zheng, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng*. 
 GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion.  
-***Bioinformatics, 2023 (IF=6.9)***
+***Bioinformatics, 2022 (IF=6.9)***
 [Full Text](https://doi.org/10.1093/bioinformatics/btac850) 
 
 *	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
