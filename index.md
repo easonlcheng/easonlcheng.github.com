@@ -29,7 +29,8 @@ ResearchGate: https://www.researchgate.net/profile/Lixin-Cheng
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
-***Bioinformatics, 2023 (in press)***
+***Bioinformatics, 2023 (IF=6.9)***
+[Full Text](https://doi.org/10.1093/bioinformatics/btad109)
 
 *	**Lixin Cheng#\***, Haonan Wu#, Xubin Zheng, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng\*.   
 GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion.   
