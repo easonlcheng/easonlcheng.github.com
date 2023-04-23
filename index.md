@@ -35,6 +35,7 @@ bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection
 * Ran Wang, Xubin Zheng, Fangda Song, Man Hon Wong, Kwong Sak Leung, and **Lixin Cheng\***.   
 Deciphering associations between gut microbiota and clinical factors using microbial modules.   
 ***Bioinformatics, 2023 (IF=6.9)***
+[Full Text](https://doi.org/10.1093/bioinformatics/btad213)
 
 *	**Lixin Cheng#\***, Haonan Wu#, Xubin Zheng, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng\*.   
 GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion.   
