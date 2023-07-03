@@ -42,20 +42,18 @@ GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation
 ***Bioinformatics, 2023 (IF=6.9)***
 [Full Text](https://doi.org/10.1093/bioinformatics/btac850) 
 
-*	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
-meGPS: a multi-omics signature for hepatocellular carcinoma detection integrating methylome and transcriptome data.  
-***Bioinformatics, 2022 (IF=6.9)***
-[Full Text](https://doi.org/10.1093/bioinformatics/btac379) 
-
 *	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen*, Xueyan Liu*, and **Lixin Cheng\***.
 Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.
 ***BMC Genomics, 2023 (IF=4.4)***
-
 
 *	Jun Wang, Marc Horlacher, **Lixin Cheng**, Ole Winther.
 RNA trafficking and subcellular localization – a review of mechanisms, experimental and predictive methodologies.  
 ***Briefings in Bioinformatics, 2023. (IF=9.5)***
 
+*	Qiong Wu#, Xubin Zheng#, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and **Lixin Cheng\***.  
+meGPS: a multi-omics signature for hepatocellular carcinoma detection integrating methylome and transcriptome data.  
+***Bioinformatics, 2022 (IF=6.9)***
+[Full Text](https://doi.org/10.1093/bioinformatics/btac379) 
 
 *	Ran Wang, Xubin Zheng, Jun Wang, Shibiao Wan, Fangda Song, Man-Hon Wong, Kwong-Sak Leung, and **Lixin Cheng\***.  
 Improving bulk RNA-seq classification by transferring gene signature from single cells in acute myeloid leukemia.   
