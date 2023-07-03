@@ -46,7 +46,7 @@ GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation
 Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.
 ***BMC Genomics, 2023 (IF=4.4)***
 
-*	Jun Wang, Marc Horlacher, **Lixin Cheng**, Ole Winther.
+*	Jun Wang\*, Marc Horlacher, **Lixin Cheng**, Ole Winther.
 RNA trafficking and subcellular localization – a review of mechanisms, experimental and predictive methodologies.  
 ***Briefings in Bioinformatics, 2023. (IF=9.5)***
 
