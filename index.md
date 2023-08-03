@@ -44,7 +44,7 @@ GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation
 ***Bioinformatics, 2023 (IF=6.9)***
 [Full Text](https://doi.org/10.1093/bioinformatics/btac850) 
 
-*	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen*, Xueyan Liu*, and **Lixin Cheng\***.
+*	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen\*, Xueyan Liu\*, and **Lixin Cheng\***.
 Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.
 ***BMC Genomics, 2023 (IF=4.4)***
 [Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09460-9)
