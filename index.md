@@ -29,6 +29,8 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+* Nana Jin, **Lixin Cheng\***, Qingshan Geng\*. Multi-omics on Mental Stress Induced Myocardial Ischemia (MSIMI) – A Narrative Review. Heart and Mind, 2023.   
+
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
 ***Bioinformatics, 2023 (IF=6.9)***
