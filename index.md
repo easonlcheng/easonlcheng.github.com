@@ -32,6 +32,10 @@ ORCID:  0000-0002-9427-383X
 * Nana Jin, **Lixin Cheng\***, Qingshan Geng\*. Multi-omics on Mental Stress Induced Myocardial Ischemia (MSIMI) – A Narrative Review.   
 ***Heart and Mind, 2023***   
 
+* Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.
+MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
+***Briefings in Bioinformatics, 2023. (IF=9.5)***  (Acceptted)
+
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
 ***Bioinformatics, 2023 (IF=6.9)***
