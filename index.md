@@ -32,10 +32,6 @@ ORCID:  0000-0002-9427-383X
 * Nana Jin, **Lixin Cheng\***, Qingshan Geng\*. Multi-omics on Mental Stress Induced Myocardial Ischemia (MSIMI) – A Narrative Review.   
 ***Heart and Mind, 2023***   
 
-* Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.   
-MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
-***Briefings in Bioinformatics, 2023. (IF=9.5)***  (Acceptted)
-
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
 ***Bioinformatics, 2023 (IF=6.9)***
@@ -51,8 +47,16 @@ GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation
 ***Bioinformatics, 2023 (IF=6.9)***
 [Full Text](https://doi.org/10.1093/bioinformatics/btac850) 
 
+* Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.   
+MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
+***Briefings in Bioinformatics, 2023. (IF=9.5)***  (In press) 
+
+*	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li*, **Lixin Cheng\***, Xun Li*.  
+Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
+***Briefings in Bioinformatics, 2023. (IF=9.5)***  (Accepted) 
+
 *	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen\*, Xueyan Liu\*, and **Lixin Cheng\***.
-Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.
+Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.  
 ***BMC Genomics, 2023 (IF=4.4)***
 [Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09460-9)
 
