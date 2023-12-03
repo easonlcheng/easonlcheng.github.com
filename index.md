@@ -55,12 +55,12 @@ MrGPS: a m6A-related gene pair signature to predict the prognosis and immunologi
 Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
 ***Briefings in Bioinformatics, 2023. (IF=9.5)***  (Accepted) 
 
-*	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen\*, Xueyan Liu\*, and **Lixin Cheng\***.
+*	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen\*, Xueyan Liu\*, and **Lixin Cheng\***.   
 Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.  
 ***BMC Genomics, 2023 (IF=4.4)***
 [Full Text](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09460-9)
 
-*	Jun Wang\*, Marc Horlacher, **Lixin Cheng**, Ole Winther.
+*	Jun Wang\*, Marc Horlacher, **Lixin Cheng**, Ole Winther.   
 RNA trafficking and subcellular localization – a review of mechanisms, experimental and predictive methodologies.  
 ***Briefings in Bioinformatics, 2023. (IF=9.5)***
 [Full Text](https://doi.org/10.1093/bib/bbad249)
