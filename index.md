@@ -49,11 +49,12 @@ GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation
 
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
-***Briefings in Bioinformatics, 2023. (IF=9.5)***  (In press) 
+***Briefings in Bioinformatics, 2023. (IF=9.5)***
+[Full Text](https://doi.org/10.1093/bib/bbad498)
 
 *	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li*, **Lixin Cheng\***, Xun Li*.  
 Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
-***Briefings in Bioinformatics, 2023. (IF=9.5)***  (Accepted) 
+***Briefings in Bioinformatics, 2023. (IF=9.5)***  (In press) 
 
 *	Xiaojun Liu#, Chengyin Hong#, Yichun Jiang#, Wei Li, Youlian Chen, Yonghui Ma, Pengfei Zhao, Tiyuan Li, Huaisheng Chen\*, Xueyan Liu\*, and **Lixin Cheng\***.   
 Co-expression module analysis reveals high expression homogeneity for both coding and non-coding genes in sepsis.  
