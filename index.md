@@ -40,7 +40,7 @@ Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients us
 [Full Text](https://doi.org/10.1093/bib/bbad478)
 
 * Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther*.   
-DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.
+DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.  
 ***Bioinformatics, 2024 (IF=6.9)***  
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
