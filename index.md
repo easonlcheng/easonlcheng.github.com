@@ -31,17 +31,17 @@ ORCID:  0000-0002-9427-383X
 
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
-***Briefings in Bioinformatics, 2023. (IF=9.5)***
+***Briefings in Bioinformatics, 2024. (IF=9.5)***
 [Full Text](https://doi.org/10.1093/bib/bbad498)
 
 *	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li*, **Lixin Cheng\***, Xun Li*.  
 Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
-***Briefings in Bioinformatics, 2023. (IF=9.5)***
+***Briefings in Bioinformatics, 2024. (IF=9.5)***
 [Full Text](https://doi.org/10.1093/bib/bbad478)
 
 * Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther*.   
 DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.
-***Bioinformatics, 2024 (IF=6.9)***
+***Bioinformatics, 2024 (IF=6.9)***  
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
