@@ -29,17 +29,17 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-* Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng*, Xiaojun Yang*, and **Lixin Cheng\***.   
+* Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng\*, Xiaojun Yang\*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
 ***Briefings in Bioinformatics, 2024. (IF=9.5)***
 [Full Text](https://doi.org/10.1093/bib/bbad498)
 
-*	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li*, **Lixin Cheng\***, Xun Li*.  
+*	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li\*, **Lixin Cheng\***, Xun Li\*.  
 Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
 ***Briefings in Bioinformatics, 2024. (IF=9.5)***
 [Full Text](https://doi.org/10.1093/bib/bbad478)
 
-* Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther*.   
+* Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther\*.   
 DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.  
 ***Bioinformatics, 2024 (IF=6.9)***  
 
