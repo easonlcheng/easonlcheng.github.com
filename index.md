@@ -41,7 +41,12 @@ Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients us
 
 * Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther\*.   
 DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.  
-***Bioinformatics, 2024 (IF=6.9)***  
+***Bioinformatics, 2024 (IF=6.9)***
+[Full Text](https://doi.org/10.1093/bioinformatics/btae065)
+
+* Jize Xie#, Xubin Zheng#, Jianlong Yan#, Qizhi Li, Nana Jin, Shuojia Wang, Pengfei Zhao, Shuai Li, Wanfu Ding\*, **Lixin Cheng\***, Qingshan Geng\*.   
+Deep learning model to discriminate diverse infection types based on pairwise analysis of host gene expression.   
+***iScience, 2024 (in press)***
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
