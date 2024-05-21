@@ -46,7 +46,12 @@ DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular 
 
 * Jize Xie#, Xubin Zheng#, Jianlong Yan#, Qizhi Li, Nana Jin, Shuojia Wang, Pengfei Zhao, Shuai Li, Wanfu Ding\*, **Lixin Cheng\***, Qingshan Geng\*.   
 Deep learning model to discriminate diverse infection types based on pairwise analysis of host gene expression.   
-***iScience, 2024 (in press)***
+***iScience, 2024 (IF=5.8)***
+[Full Text](https://www.cell.com/iscience/fulltext/S2589-0042(24)01130-1)
+
+* Yining Liang, Jiayue Zhang, Dehong Luo\*, **Lixin Cheng\***, Yijin Wang\*.
+Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.
+***Journal of Medical Virology, 2024 (IF=12.7)***
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
