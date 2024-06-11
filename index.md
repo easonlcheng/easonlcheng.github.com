@@ -49,6 +49,10 @@ Deep learning model to discriminate diverse infection types based on pairwise an
 ***iScience, 2024 (IF=5.8)***
 [Full Text](https://www.cell.com/iscience/fulltext/S2589-0042(24)01130-1)
 
+* Shuojia Wang, Yilin Chen, Lijiao Xiong, Nana Jin, Pengfei Zhao, Zhen Liang\*, **Lixin Cheng\***, Lin Kang\*.
+Multimorbidity measures associated with cognitive function among community dwelling older Chinese adults.
+***Alzheimer's & Dementia, 2024 (IF=14, in press)***
+   
 * Yining Liang, Jiayue Zhang, Dehong Luo\*, **Lixin Cheng\***, Yijin Wang\*.  
 Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.  
 ***Journal of Medical Virology, 2024 (IF=12.7)***
