@@ -51,7 +51,8 @@ Deep learning model to discriminate diverse infection types based on pairwise an
 
 * Shuojia Wang, Yilin Chen, Lijiao Xiong, Nana Jin, Pengfei Zhao, Zhen Liang\*, **Lixin Cheng\***, Lin Kang\*.
 Multimorbidity measures associated with cognitive function among community dwelling older Chinese adults.  
-***Alzheimer's & Dementia, 2024 (IF=14, in press)***
+***Alzheimer's & Dementia, 2024 (IF=14)***
+[Full Text](https://doi.org/10.1002/alz.14117)
    
 * Yining Liang, Jiayue Zhang, Dehong Luo\*, **Lixin Cheng\***, Yijin Wang\*.  
 Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.  
