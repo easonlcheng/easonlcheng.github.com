@@ -29,6 +29,11 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+* Xubin Zheng, Dian Meng, Duo Chen, Wan-Ki Wong, Ka-Ho To, Lei Zhu, JiaFei Wu, Yining Liang, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.   
+scCaT: An explainable capsulating architecture for sepsis diagnosis transferring from single-cell RNA sequencing.   
+***PLOS Computational Biology, 2024.***
+[Full Text](https://doi.org/10.1371/journal.pcbi.1012083)
+
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng\*, Xiaojun Yang\*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
 ***Briefings in Bioinformatics, 2024. (IF=9.5)***
@@ -49,11 +54,16 @@ Deep learning model to discriminate diverse infection types based on pairwise an
 ***iScience, 2024 (IF=5.8)***
 [Full Text](https://www.cell.com/iscience/fulltext/S2589-0042(24)01130-1)
 
-* Shuojia Wang, Yilin Chen, Lijiao Xiong, Nana Jin, Pengfei Zhao, Zhen Liang\*, **Lixin Cheng\***, Lin Kang\*.
+* Shuojia Wang, Yilin Chen, Lijiao Xiong, Nana Jin, Pengfei Zhao, Zhen Liang\*, **Lixin Cheng\***, Lin Kang\*.  
 Multimorbidity measures associated with cognitive function among community dwelling older Chinese adults.  
 ***Alzheimer's & Dementia, 2024 (IF=14)***
 [Full Text](https://doi.org/10.1002/alz.14117)
-   
+
+* Shuojia Wang, Chengyuan Yu, Jing Zhu, Pengfei Zhao, Nana Jin, **Lixin Cheng\***, Lin Kang\*.  
+ Multimorbidity patterns, leisure activities, and cognitive function: A population-based longitudinal study.  
+***The Journals of Gerontology: Series A, 2024***
+[Full Text](https://doi.org/10.1093/gerona/glae231)
+
 * Yining Liang, Jiayue Zhang, Dehong Luo\*, **Lixin Cheng\***, Yijin Wang\*.  
 Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.  
 ***Journal of Medical Virology, 2024 (IF=12.7)***
