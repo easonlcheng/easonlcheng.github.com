@@ -29,6 +29,10 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+* Dian Meng, Yu Feng, Kaishen Yuan, Zitong Yu, Qin Cao, **Lixin Cheng\***, Xubin Zheng∗.   
+scMMAE: masked cross-attention network for single-cell multimodal omicsfusion to enhance unimodal omics.   
+***Briefings in Bioinformatics, 2025.***
+
 * Xubin Zheng, Dian Meng, Duo Chen, Wan-Ki Wong, Ka-Ho To, Lei Zhu, JiaFei Wu, Yining Liang, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.   
 scCaT: An explainable capsulating architecture for sepsis diagnosis transferring from single-cell RNA sequencing.   
 ***PLOS Computational Biology, 2024.***
@@ -36,27 +40,27 @@ scCaT: An explainable capsulating architecture for sepsis diagnosis transferring
 
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng\*, Xiaojun Yang\*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
-***Briefings in Bioinformatics, 2024. (IF=9.5)***
+***Briefings in Bioinformatics, 2024.***
 [Full Text](https://doi.org/10.1093/bib/bbad498)
 
 *	Ying Li#, Jing Gao#, Xubin Zheng#, Guole Nie, Jican Qin, Haiping Wang, Tao He, Åsa Wheelock, Chuan-Xing Li\*, **Lixin Cheng\***, Xun Li\*.  
 Diagnostic prediction of portal vein thrombosis in chronic cirrhosis patients using data-driven precision medicine model.  
-***Briefings in Bioinformatics, 2024. (IF=9.5)***
+***Briefings in Bioinformatics, 2024.***
 [Full Text](https://doi.org/10.1093/bib/bbad478)
 
 * Jun Wang, Marc Horlacher, **Lixin Cheng\***, Ole Winther\*.   
 DeepLocRNA: An interpretable deep learning model for predicting RNA subcellular localisation with domain-specific transfer-learning.  
-***Bioinformatics, 2024 (IF=6.9)***
+***Bioinformatics, 2024***
 [Full Text](https://doi.org/10.1093/bioinformatics/btae065)
 
 * Jize Xie#, Xubin Zheng#, Jianlong Yan#, Qizhi Li, Nana Jin, Shuojia Wang, Pengfei Zhao, Shuai Li, Wanfu Ding\*, **Lixin Cheng\***, Qingshan Geng\*.   
 Deep learning model to discriminate diverse infection types based on pairwise analysis of host gene expression.   
-***iScience, 2024 (IF=5.8)***
+***iScience, 2024***
 [Full Text](https://www.cell.com/iscience/fulltext/S2589-0042(24)01130-1)
 
 * Shuojia Wang, Yilin Chen, Lijiao Xiong, Nana Jin, Pengfei Zhao, Zhen Liang\*, **Lixin Cheng\***, Lin Kang\*.  
 Multimorbidity measures associated with cognitive function among community dwelling older Chinese adults.  
-***Alzheimer's & Dementia, 2024 (IF=14)***
+***Alzheimer's & Dementia, 2024 (IF=13)***
 [Full Text](https://doi.org/10.1002/alz.14117)
 
 * Shuojia Wang, Chengyuan Yu, Jing Zhu, Pengfei Zhao, Nana Jin, **Lixin Cheng\***, Lin Kang\*.  
@@ -66,7 +70,15 @@ Multimorbidity measures associated with cognitive function among community dwell
 
 * Yining Liang, Jiayue Zhang, Dehong Luo\*, **Lixin Cheng\***, Yijin Wang\*.  
 Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.  
-***Journal of Medical Virology, 2024 (IF=12.7)***
+***Journal of Medical Virology, 2024***
+
+* Xubin Zheng#, Nana Jin#, Qiong Wu#, Ning Zhang, Haonan Wu, Yuanhao Wang, Rui Luo, Tao Liu, Wanfu Ding*, Qingshan Geng*, **Lixin Cheng\***.   
+Less is more: relative rank is more informative than absolute abundance for compositional NGS data.   
+***Briefings in Functional Genomics, 2024***
+
+* Nana Jin, **Lixin Cheng\***, Qingshan Geng*.   
+Multiomics on Mental Stress-Induced Myocardial Ischemia: A Narrative Review.   
+***Heart and Mind, 2024***
 
 * Qizhi Li#, Xubin Zheng#, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and **Lixin Cheng\***.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
