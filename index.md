@@ -29,7 +29,7 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-* Dian Meng, Yu Feng, Kaishen Yuan, Zitong Yu, Qin Cao, **Lixin Cheng\***, Xubin Zheng∗.   
+* Dian Meng, Yu Feng, Kaishen Yuan, Zitong Yu, Qin Cao, **Lixin Cheng\***, Xubin Zheng\∗.   
 scMMAE: masked cross-attention network for single-cell multimodal omicsfusion to enhance unimodal omics.   
 ***Briefings in Bioinformatics, 2025.***
 
@@ -38,7 +38,7 @@ scCaT: An explainable capsulating architecture for sepsis diagnosis transferring
 ***PLOS Computational Biology, 2024.***
 [Full Text](https://doi.org/10.1371/journal.pcbi.1012083)
 
-* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen*, Qingshan Geng*, **Lixin Cheng\***.   
+* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
 PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
 ***Briefings in Bioinformatics, 2024.***
 
@@ -76,11 +76,11 @@ Multimorbidity measures associated with cognitive function among community dwell
 Deregulation of immune response contributing to fulminant hepatitis in HEV infected pregnant women.  
 ***Journal of Medical Virology, 2024***
 
-* Xubin Zheng#, Nana Jin#, Qiong Wu#, Ning Zhang, Haonan Wu, Yuanhao Wang, Rui Luo, Tao Liu, Wanfu Ding*, Qingshan Geng*, **Lixin Cheng\***.   
+* Xubin Zheng#, Nana Jin#, Qiong Wu#, Ning Zhang, Haonan Wu, Yuanhao Wang, Rui Luo, Tao Liu, Wanfu Ding\*, Qingshan Geng\*, **Lixin Cheng\***.   
 Less is more: relative rank is more informative than absolute abundance for compositional NGS data.   
 ***Briefings in Functional Genomics, 2024***
 
-* Nana Jin, **Lixin Cheng\***, Qingshan Geng*.   
+* Nana Jin, **Lixin Cheng\***, Qingshan Geng\*.   
 Multiomics on Mental Stress-Induced Myocardial Ischemia: A Narrative Review.   
 ***Heart and Mind, 2024***
 
