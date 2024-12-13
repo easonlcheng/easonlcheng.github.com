@@ -38,6 +38,10 @@ scCaT: An explainable capsulating architecture for sepsis diagnosis transferring
 ***PLOS Computational Biology, 2024.***
 [Full Text](https://doi.org/10.1371/journal.pcbi.1012083)
 
+* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen*, Qingshan Geng*, **Lixin Cheng\***.   
+PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
+***Briefings in Bioinformatics, 2024.***
+
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng\*, Xiaojun Yang\*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
 ***Briefings in Bioinformatics, 2024.***
