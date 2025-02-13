@@ -29,9 +29,30 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
+PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
+***Briefings in Bioinformatics, 2025.***
+[Full Text](https://doi:10.1093/bib/bbae661)   
+
+* Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.
+Metabolomics- and proteomics-based multiomics integration reveals early metabolite alterations in sepsis-associated acute kidney injury.   
+***BMC Medicine 2025.***
+[Full Text](https://doi.org/10.1186/s12916-025-03920-7)   
+
+* Jiayue Qiu, Nana Jin, **Lixin Cheng\***, Chen Huang\*.
+iDICss robustly predicts melanoma immunotherapy response by synergizing genomic and transcriptomic knowledge via independent component analysis.   
+***Clinical and Translational Medicine, 2025.***
+[Full Text](https://doi:10.1002/ctm2.70183)   
+
+* Han Yin, Zihan Gao, Mengyang Jia, Cheng Jiang, Yuanhao Wang, Dahui Xue, Jingnan Huang, Huhao Feng, Nana Jin, Jingjin Liu\*, **Lixin Cheng\***, Qingshan Geng\*.
+Diminished salivary cortisol response to mental stress predict all-cause mortality in general population.   
+***Journal of Psychosomatic Research, 2025.***
+[Full Text](https://doi:10.1016/j.jpsychores.2024.112031)   
+
 * Dian Meng, Yu Feng, Kaishen Yuan, Zitong Yu, Qin Cao, **Lixin Cheng\***, Xubin Zheng\*.   
 scMMAE: masked cross-attention network for single-cell multimodal omicsfusion to enhance unimodal omics.   
 ***Briefings in Bioinformatics, 2025.***
+[Full Text](https://doi.org/10.1371/journal.pcbi.1012083)   
 
 * Xubin Zheng, Dian Meng, Duo Chen, Wan-Ki Wong, Ka-Ho To, Lei Zhu, JiaFei Wu, Yining Liang, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.   
 scCaT: An explainable capsulating architecture for sepsis diagnosis transferring from single-cell RNA sequencing.   
@@ -159,11 +180,6 @@ Evaluating the consistency of gene methylation in liver cancer using bisulfite s
 ***Front. Cell Dev. Biol., 2021. (IF=6.6)***
 [Full Text](https://doi.org/10.3389/fcell.2021.671302)
 
-*	Baiying Li#, Yonglun Zeng#, Wenhan Cao, Wenxin Zhang, **Lixin Cheng**, Haidi Yin, Qian Wu, Xiangfeng Wang, Yan Huang, Wilson Chun Yu Lau, Zhong-Ping Yao, Yusong Guo\*, Liwen Jiang\*.    
-A distinct giant coat protein complex II vesicle population in Arabidopsis thaliana.  
-***Nature Plants, 2021.***
-[Full Text](https://www.nature.com/articles/s41477-021-00997-9)
-
 *	Xueyan Liu#, Xubin Zheng#, Jun Wang#, Ning Zhang, Kwong-Sak Leung, Xiufeng Ye\*, and **Lixin Cheng\***.  
 A long non-coding RNA signature for diagnostic prediction of sepsis upon ICU admission.  
 ***Clinical and Translational Medicine, 2020. (IF=7.9)***
@@ -179,18 +195,10 @@ Host–Guest Protein Assembly for Affinity Purification of Methyllysine Proteome
 ***Analytical Chemistry, 2020. (IF=6.8)***
 [Full Text](https://doi.org/10.1021/acs.analchem.0c01643)
 
-*	Miao Liu, Sicong He, **Lixin Cheng**, Jianan Qu, and Jiang Xia\*.  
-Phase-Separated Multienzyme Biosynthesis.  
-***Biomacromolecules, 2020 (IF=6.1)***
-
 * **Lixin Cheng#**, Chuanchuan Nan#, Lin Kang#, Ning Zhang, Sheng Liu, Huaisheng Chen, Chengying Hong, Youlian Chen, Zhen Liang\*, Xueyan Liu\*.  
 Whole blood transcriptomic investigation identifies long non-coding RNAs as regulators in sepsis.  
 ***Journal of Translational Medicine, 2020. (IF=4.1)***
 [Full Text](https://doi.org/10.1186/s12967-020-02372-2)
-
-*	Kenneth Cheung, Silvia Fanti, Claudio Mauro, GS Wang, Anitha Nair, HM Fu, Silvia Angeletti, Silvia Spoto, Marta Fogolari, Francesco romano, Dunja Aksentijevic, WW Liu, BY Li, **Lixin Cheng**, LW Yang, Juho Vuononvirta, Thanushiyan Poobalasingam, David Smith, Massimo Ciccozzi, Egle Solito, Federica Marelli-Berg.  
-Preservation of microvascular barrier function requires CD31 receptor-induced metabolic reprogramming.  
-***Nat Commun. 2020 Jul 17;11(1):3595.***
 
 * Jun Wang, Xiuqing Zhang, **Lixin Cheng\***, Yonglun Luo\*.  
 An overview and metanalysis of Machine and Deep Learning-Based CRISPR gRNADesign Tools.  
@@ -206,10 +214,6 @@ GNL-Scorer: A generalized model for predicting CRISPR on-target activity by mach
 Normalization methods for the analysis of unbalanced transcriptome data: a review.  
 ***Frontier in Biotechnology and Bioengineering, 2019. (IF=5.1)***
 [Full Text](https://doi.org/10.3389/fbioe.2019.00358)
-
-* Qiong Zhao, Jinbo Shen, Caiji Gao, Yong Cui, Yongyi Wang, Jie Cui, **Lixin Cheng**, Wenhan Cao, Ying Zhu, Shuxian Huang, Qianzi Zhou, Cheuk Ka Leong, King Pong Leung, Xuemei Chen & Liwen Jiang\*.  
-RST1 is a FREE1 Suppressor that Negatively Regulates Vacuolar Trafficking in Arabidopsis.  
-***Plant Cell, 2019.***
 
 * **Lixin Cheng**, Pengfei Liu, Dong Wang\*, and Kwong-Sak Leung\*.  
 Exploiting locational and topological overlap model to identify modules in human protein interaction network.  
