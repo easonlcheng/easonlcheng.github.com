@@ -32,7 +32,7 @@ ORCID:  0000-0002-9427-383X
 * Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
 PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
 ***Briefings in Bioinformatics, 2025.***
-[Full Text](https://doi:10.1093/bib/bbae661)   
+[Full Text](https://doi.org/10.1093/bib/bbae661)   
 
 * Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.
 Metabolomics- and proteomics-based multiomics integration reveals early metabolite alterations in sepsis-associated acute kidney injury.   
@@ -52,16 +52,12 @@ Diminished salivary cortisol response to mental stress predict all-cause mortali
 * Dian Meng, Yu Feng, Kaishen Yuan, Zitong Yu, Qin Cao, **Lixin Cheng\***, Xubin Zheng\*.   
 scMMAE: masked cross-attention network for single-cell multimodal omicsfusion to enhance unimodal omics.   
 ***Briefings in Bioinformatics, 2025.***
-[Full Text](https://doi.org/10.1371/journal.pcbi.1012083)   
+[Full Text](https://doi.org/10.1093/bib/bbaf010)   
 
 * Xubin Zheng, Dian Meng, Duo Chen, Wan-Ki Wong, Ka-Ho To, Lei Zhu, JiaFei Wu, Yining Liang, Kwong-Sak Leung, Man-Hon Wong, and **Lixin Cheng\***.   
 scCaT: An explainable capsulating architecture for sepsis diagnosis transferring from single-cell RNA sequencing.   
 ***PLOS Computational Biology, 2024.***
 [Full Text](https://doi.org/10.1371/journal.pcbi.1012083)
-
-* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
-PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
-***Briefings in Bioinformatics, 2024.***
 
 * Ning Zhang#, Fengxia Yang#, Pengfei Zhao#, Nana Jin, Haonan Wu, Tao Liu, Qingshan Geng\*, Xiaojun Yang\*, and **Lixin Cheng\***.   
 MrGPS: a m6A-related gene pair signature to predict the prognosis and immunological impact of glioma patients.  
