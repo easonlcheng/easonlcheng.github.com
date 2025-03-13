@@ -34,11 +34,20 @@ PAGE-based transfer learning from single-cell to bulk sequencing enhances model 
 ***Briefings in Bioinformatics, 2025.***
 [Full Text](https://doi.org/10.1093/bib/bbae661)   
 
-* Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.
+* Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.   
 Metabolomics- and proteomics-based multiomics integration reveals early metabolite alterations in sepsis-associated acute kidney injury.   
 ***BMC Medicine 2025.***
 [Full Text](https://doi.org/10.1186/s12916-025-03920-7)   
 
+* Ran Wang, Yan Qian, Xiaojing Guo, Fangda Song, Zhiqiang Xiong, Shirong Cai, Xiuwu Bian, Man Hon Wong, Qin Cao\*, **Lixin Cheng\***, Gang Lu\*, Kwong Sak Leung\*.   
+STModule: identifying tissue modules to uncover spatial components and characteristics of transcriptomic landscapes.   
+***Genome Medicine 2025.***
+[Full Text](https://doi.org/10.1186/s13073-025-01441-9)   
+  
+* Shuojia Wang, Zikuan Yang, Yilin Chen, Jing Zhu, Lin Kang\*, **Lixin Cheng\***.   
+Longitudinal association between multimorbidity, participating activity and cognitive function: cross-lagged mediation analysis.  
+***The Journals of Gerontology: Series A, 2025.***   
+  
 * Jiayue Qiu, Nana Jin, **Lixin Cheng\***, Chen Huang\*.
 iDICss robustly predicts melanoma immunotherapy response by synergizing genomic and transcriptomic knowledge via independent component analysis.   
 ***Clinical and Translational Medicine, 2025.***
