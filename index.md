@@ -29,7 +29,7 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-* Chuanchuan Nana#, Ning Zhang#, Haonan Wu, Yuxin Chen, Pengfei Huang, Chenqing Zheng, Nana Jin, Shuojia Wang, Xia Zhang, Xubin Zheng, Changsong Wang, Chunbo Chen\⁎, **Lixin Cheng\⁎**.   
+* Chuanchuan Nana#, Ning Zhang#, Haonan Wu, Yuxin Chen, Pengfei Huang, Chenqing Zheng, Nana Jin, Shuojia Wang, Xia Zhang, Xubin Zheng, Changsong Wang, Chunbo Chen\*, **Lixin Cheng\***.   
 Toward pan-age sepsis detection: Leveraging pediatric transcriptome data to enhance diagnostic model generalizability in heterogeneous populations.   
 ***Fundamental Research, 2025.***
 [Full Text](https://www.sciencedirect.com/science/article/pii/S2667325825004212)   
