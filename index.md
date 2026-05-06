@@ -29,6 +29,14 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
+* Xubin Zheng#, Xinlei Huang#, Xiang Zhou#, Dian Meng, Ziyue Qiao\*, Zhiyuan Yuan\*, **Lixin Cheng\***.
+SpaMode: A broadly applicable framework for deciphering spatial multi-omics using multimodal mixture of disentangled experts.
+***Advanced Science, 2026.***   
+
+* Jianlong Yan#, Nana Jin#, Cong Xu#, Haonan Wu#, Huadong Liu, Jie Yuan, Da Yin, Feng Lin, Rongning Wang, Yining Liang, Yating Feng, Yu Lan, Xuezhao Lin, Yuanhao Wang, Ning Zhang, Lingyun Dai, Tangzhiming Li\*, Shaohong Dong\*, **Lixin Cheng\***, Xin Sun\*.   
+Multi-omics landscape and machine learning predictors of acute and chronic coronary syndrome diagnosis in young patients.   
+***Journal of Advanced Research, 2026.***   
+
 * Chuanchuan Nana#, Ning Zhang#, Haonan Wu, Yuxin Chen, Pengfei Huang, Chenqing Zheng, Nana Jin, Shuojia Wang, Xia Zhang, Xubin Zheng, Changsong Wang, Chunbo Chen\*, **Lixin Cheng\***.   
 Toward pan-age sepsis detection: Leveraging pediatric transcriptome data to enhance diagnostic model generalizability in heterogeneous populations.   
 ***Fundamental Research, 2025.***
