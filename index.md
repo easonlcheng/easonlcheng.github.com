@@ -29,23 +29,13 @@ ORCID:  0000-0002-9427-383X
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
 
-* Xubin Zheng#, Xinlei Huang#, Xiang Zhou#, Dian Meng, Ziyue Qiao\*, Zhiyuan Yuan\*, **Lixin Cheng\***.
-SpaMode: A broadly applicable framework for deciphering spatial multi-omics using multimodal mixture of disentangled experts.
+* Xubin Zheng#, Xinlei Huang#, Xiang Zhou#, Dian Meng, Ziyue Qiao\*, Zhiyuan Yuan\*, **Lixin Cheng\***.   
+SpaMode: A broadly applicable framework for deciphering spatial multi-omics using multimodal mixture of disentangled experts.   
 ***Advanced Science, 2026.***   
 
 * Jianlong Yan#, Nana Jin#, Cong Xu#, Haonan Wu#, Huadong Liu, Jie Yuan, Da Yin, Feng Lin, Rongning Wang, Yining Liang, Yating Feng, Yu Lan, Xuezhao Lin, Yuanhao Wang, Ning Zhang, Lingyun Dai, Tangzhiming Li\*, Shaohong Dong\*, **Lixin Cheng\***, Xin Sun\*.   
 Multi-omics landscape and machine learning predictors of acute and chronic coronary syndrome diagnosis in young patients.   
 ***Journal of Advanced Research, 2026.***   
-
-* Chuanchuan Nana#, Ning Zhang#, Haonan Wu, Yuxin Chen, Pengfei Huang, Chenqing Zheng, Nana Jin, Shuojia Wang, Xia Zhang, Xubin Zheng, Changsong Wang, Chunbo Chen\*, **Lixin Cheng\***.   
-Toward pan-age sepsis detection: Leveraging pediatric transcriptome data to enhance diagnostic model generalizability in heterogeneous populations.   
-***Fundamental Research, 2025.***
-[Full Text](https://www.sciencedirect.com/science/article/pii/S2667325825004212)   
-
-* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
-PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
-***Briefings in Bioinformatics, 2025.***
-[Full Text](https://doi.org/10.1093/bib/bbae661)   
 
 * Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.   
 Metabolomics- and proteomics-based multiomics integration reveals early metabolite alterations in sepsis-associated acute kidney injury.   
@@ -56,6 +46,16 @@ Metabolomics- and proteomics-based multiomics integration reveals early metaboli
 STModule: identifying tissue modules to uncover spatial components and characteristics of transcriptomic landscapes.   
 ***Genome Medicine 2025.***
 [Full Text](https://doi.org/10.1186/s13073-025-01441-9)   
+
+* Chuanchuan Nana#, Ning Zhang#, Haonan Wu, Yuxin Chen, Pengfei Huang, Chenqing Zheng, Nana Jin, Shuojia Wang, Xia Zhang, Xubin Zheng, Changsong Wang, Chunbo Chen\*, **Lixin Cheng\***.   
+Toward pan-age sepsis detection: Leveraging pediatric transcriptome data to enhance diagnostic model generalizability in heterogeneous populations.   
+***Fundamental Research, 2025.***
+[Full Text](https://www.sciencedirect.com/science/article/pii/S2667325825004212)   
+
+* Nana Jin#, Chuanchuan Nan#, Wanyang Li#, Peijing Lin, Yu Xin, Jun Wang, Yuelong Chen, Yuanhao Wang, Kaijiang Yu, Changsong Wang, Chunbo Chen\*, Qingshan Geng\*, **Lixin Cheng\***.   
+PAGE-based transfer learning from single-cell to bulk sequencing enhances model generalization for sepsis diagnosis.   
+***Briefings in Bioinformatics, 2025.***
+[Full Text](https://doi.org/10.1093/bib/bbae661)   
   
 * Shuojia Wang, Zikuan Yang, Yilin Chen, Jing Zhu, Lin Kang\*, **Lixin Cheng\***.   
 Longitudinal association between multimorbidity, participating activity and cognitive function: cross-lagged mediation analysis.  
