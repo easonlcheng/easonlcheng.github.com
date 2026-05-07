@@ -2,7 +2,7 @@
 
 <img align="right" width="130" height="180" src="https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead1.jpg?raw=true">
 
-Address: Shenzhen People's Hospital, Shenzhen, China.
+Address: Health Data Scinece Center, Shenzhen People's Hospital, Shenzhen 518020, China.
 
 Email: easonlcheng@gmail.com
 
@@ -12,7 +12,7 @@ ORCID:  0000-0002-9427-383X
 
 [ResearchGate](https://www.researchgate.net/profile/Lixin-Cheng)
 
-`RA recruitment:` I am looking for Postdoc and Research Assistants to work together computational biology and bioinformatics. Please email me if interested.
+`RA recruitment:` I am looking for Postdoc and Research Assistants to work together Bioinformatics and Digital Health. Please email me if interested.
 
 ## Research Interests:
 * Diagnostic and prognostic biomarker identification
