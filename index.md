@@ -45,7 +45,7 @@ Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physica
 The Way for Early Diagnosis of Sepsis: Read Host Immune Response via Pan-infection Transcriptomics and Transfer Learning.   
 ***Tsinghua Science and Technology, 2026 (in press).***   
 
-* **Lixin Cheng**, Xiao Wang, Jie Zhang, Qitai Cai, Shishi Meng, Jie Li, Pingyue YU, Yifan Zhang, Shaoxiang Wang, Dapeng Hao, Minge Li\*, Haili Li\*.   
+* **Lixin Cheng#**, Xiao Wang#, Jie Zhang#, Qitai Cai, Shishi Meng, Jie Li, Pingyue YU, Yifan Zhang, Shaoxiang Wang, Dapeng Hao, Minge Li\*, Haili Li\*.   
 Large-scale Transcriptome Analysis Reveals KlF20A as a NovelIndicator of Cisplatin Resistance in High-Grade Serous Ovarian Cancer.   
 ***Journal of Ovarian Cancer, 2026 (in press).***   
 
