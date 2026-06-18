@@ -12,11 +12,9 @@ Email: easonlcheng@gmail.com
 
 ORCID:  0000-0002-9427-383X 
 
-[GoogleScholar](https://scholar.google.com/citations?user=LkWAc9YAAAAJ&hl=zh-CN&oi=ao)
+[GoogleScholar](https://scholar.google.com/citations?user=LkWAc9YAAAAJ&hl=zh-CN&oi=ao);   [ResearchGate](https://www.researchgate.net/profile/Lixin-Cheng)
 
-[ResearchGate](https://www.researchgate.net/profile/Lixin-Cheng)
-
-`RA recruitment:` I am looking for Postdoc and Research Assistants to work together Bioinformatics and Digital Health. Please email me if interested.
+`Postdoc recruitment:` I am looking for Postdoc and Research Assistants to work together Bioinformatics and Digital Health. Please email me if interested.
 
 ## Research Interests:
 * Multi-omics strategies for biomarker discovery
