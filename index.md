@@ -1,5 +1,3 @@
-## Lixin Cheng (程立新)
-
 <img align="right" width="130" height="180" src="https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead1.jpg?raw=true">
 
 B.S., M.Phil. (HMU), Ph.D. (CUHK)
