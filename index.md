@@ -19,16 +19,15 @@ ORCID:  0000-0002-9427-383X
 `RA recruitment:` I am looking for Postdoc and Research Assistants to work together Bioinformatics and Digital Health. Please email me if interested.
 
 ## Research Interests:
-* Diagnostic and prognostic biomarker identification
-* Machine learning algorithms
+* Multi-omics strategies for biomarker discovery
 * Data integration and transfer learning
 * Systems biololgy and network analysis
-* Multiomics
+* Digital health and big data
 
 ## Education:
-* Jan 2014 – Jan 2018, PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
-* 2008 – 2011, MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
-* 2003 – 2008, BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
+* Jan 2014 – Dec 2017: PhD (Computational Biology), Department of Computer Science and Engineering, The Chinese University of Hong Kong.
+* 2008 – 2011: MPhil (Bioinformatics), College of Bioinformatics Science and Technology, Harbin Medical University.
+* 2003 – 2008: BSc (Biotechnology), Department of Biotechnology, Harbin Medical University.
 
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
