@@ -2,7 +2,11 @@
 
 <img align="right" width="130" height="180" src="https://github.com/easonlcheng/easonlcheng.github.com/blob/master/bighead1.jpg?raw=true">
 
-Address: Health Data Scinece Center, Shenzhen People's Hospital, Shenzhen 518020, China.
+B.S., M.Phil. (HMU), Ph.D. (CUHK)
+
+Director, Health Data Scinece Center, Shenzhen People's Hospital, Shenzhen 518020, China.
+
+Associate Professor, Institute of Health Medicine, Southern University of Science and Technology, Shenzhen 518055, China
 
 Email: easonlcheng@gmail.com
 
