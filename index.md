@@ -33,9 +33,21 @@ ORCID:  0000-0002-9427-383X
 SpaMode: A broadly applicable framework for deciphering spatial multi-omics using multimodal mixture of disentangled experts.   
 ***Advanced Science, 2026.***   
 
-* Jianlong Yan#, Nana Jin#, Cong Xu#, Haonan Wu#, Huadong Liu, Jie Yuan, Da Yin, Feng Lin, Rongning Wang, Yining Liang, Yating Feng, Yu Lan, Xuezhao Lin, Yuanhao Wang, Ning Zhang, Lingyun Dai, Tangzhiming Li\*, Shaohong Dong\*, **Lixin Cheng\***, Xin Sun\*.   
+* Jianlong Yan#, Nana Jin#, Cong Xu#, Haonan Wu, Huadong Liu, Jie Yuan, Da Yin, Feng Lin, Rongning Wang, Yining Liang, Yating Feng, Yu Lan, Xuezhao Lin, Yuanhao Wang, Ning Zhang, Lingyun Dai, Tangzhiming Li\*, Shaohong Dong\*, **Lixin Cheng\***, Xin Sun\*.   
 Multi-omics landscape and machine learning predictors of acute and chronic coronary syndrome diagnosis in young patients.   
-***Journal of Advanced Research, 2026.***   
+***Journal of Advanced Research, 2026.***
+  
+* Xinlei Huang, Weihao Dai, Zijun Qin, Xin Yu, Di Wang, Yanran Liu, **Lixin Cheng\***, Xubin Zheng\*.   
+Towards Universal Spatial Transcriptomics Super-Resolution: A Generalist Physically Consistent Flow Matching Framework.   
+***ACM SIGKDD, 2026, Jeju Island Republic of Korea (Oral, <6.1%).***   
+
+* Chuanchuan Nan#, Jize Xie#, Ning Zhang, Guanghao Liu, Xinlei Huang, Yuanfen Xie, Yi Chen, Yushan Qiu\*, **Lixin Cheng\***.   
+The Way for Early Diagnosis of Sepsis: Read Host Immune Response via Pan-infection Transcriptomics and Transfer Learning.   
+***Tsinghua Science and Technology, 2026 (in press).***   
+
+* **Lixin Cheng**, Xiao Wang, Jie Zhang, Qitai Cai, Shishi Meng, Jie Li, Pingyue YU, Yifan Zhang, Shaoxiang Wang, Dapeng Hao, Minge Li\*, Haili Li\*.   
+Large-scale Transcriptome Analysis Reveals KlF20A as a NovelIndicator of Cisplatin Resistance in High-Grade Serous Ovarian Cancer.   
+***Journal of Ovarian Cancer, 2026 (in press).***   
 
 * Pengfei Huang†, Yanqi Liu†, Yue Li†, Yu Xin†, Chuanchuan Nan†, Yinghao Luo, Yating Feng, Nana Jin, Yahui Peng, Dawei Wang, Yang Zhou, Feiyu Luan, Xinran Wang, Xibo Wang, Hongxu Li, Yuxin Zhou, Weiting Zhang, Yuhan Liu, Mengyao Yuan, Yuxin Zhang, Yuchen Song, Yu Xiao, Lifeng Shen, Kaijiang Yu\*, Mingyan Zhao\*, **Lixin Cheng\***, Changsong Wang\*.   
 Metabolomics- and proteomics-based multiomics integration reveals early metabolite alterations in sepsis-associated acute kidney injury.   
